@@ -81,3 +81,14 @@ know what the ground rules for contributing are.
 If you aren't using changelog, put your release notes here (though you should
 consider using changelog). You can also add any additional sections you feel
 are necessary or important to include here. Please use the `## ` header.
+
+
+1. move hiera.yaml file your /etc/puppetlabs/pupet location
+
+2. move nodes folder /etc/puppetlabs/code/environments/production/hieradata/ location
+
+3. move role folder /etc/puppetlabs/code/environments/production/modules/ location
+
+4. move profiles folder /etc/puppetlabs/code/environments/production/modules/ location 
+
+
