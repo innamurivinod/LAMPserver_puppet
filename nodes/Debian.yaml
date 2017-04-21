@@ -1,0 +1,3 @@
+ thought::lamp::pack_apache: 'apache2'
+ thought::lamp::pack_mysql: 'mysql-server'
+ thought::lamp::pack_php: 'php5'

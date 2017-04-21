@@ -1,0 +1,3 @@
+thought::lamp::pack_apache: 'httpd'
+thought::lamp::pack_mysql: 'mysql-server'
+thought::lamp::pack_php: 'php'
